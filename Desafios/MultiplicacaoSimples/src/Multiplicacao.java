@@ -14,7 +14,7 @@ public class Multiplicacao {
         
         prod = valor1 * valor2;
         
-        System.out.println("O produto entre os valores é: " + prod);
+        System.out.println("PROD = " + prod);
 
         scanner.close();
     }
